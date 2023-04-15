@@ -32,5 +32,4 @@ writeln('Length of sentence: ', length);
 writeln('Number of words: ', word_Count);
 writeln('Number of vowels: ', vowel_Count);
 
-readln;
 END
